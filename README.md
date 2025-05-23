@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apijoaoVictorMirandaReisanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apijoaoVictorMirandaanuraghazra&show_icons=true&theme=radical)
+
+<a href="https://github.com/joaoVictorMiranda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoVictorMiranda&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/joaoVictorMiranda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVictorMiranda&show_icons=true&theme=gruvbox" />
+</a>
 
 
 
