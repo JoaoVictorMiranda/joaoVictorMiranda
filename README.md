@@ -3,8 +3,8 @@
 Sou estudante de informática apaixonado por desenvolvimento web e tecnologias clássicas.  
 Aqui você encontrará meus projetos, estatísticas e ferramentas favoritas.
 
----
-
+>---
+>
 > *“Reconhecer o sofrimento, soltar o apego, cultivar o caminho: eis a essência da liberdade.”*
 > 
 > ---
