@@ -1,4 +1,11 @@
-<!-- HEADER COM ANIMAÇÃO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d053b&height=180&section=header&text=João%20Victor&fontSize=70&fontColor=0ba4f3&fontAlignY=35&animation=scaleIn" />
+</p>
+
+
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=0BA4F3&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+João+Victor+Miranda!;💻+Programador+Full+Stack;🌐+Entusiasta+do+Desenvolvimento+Web;🧠+Fã+de+Tecnologias+Clássicas" alt="Typing SVG" />
 </h1>
