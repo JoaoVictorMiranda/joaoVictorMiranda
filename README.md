@@ -34,6 +34,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoVictorMiranda&show_icons=true&theme=transparent&title_color=0ba4f3&icon_color=1376c9&text_color=0ba4f3&border_color=59064d&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVictorMiranda&layout=compact&theme=transparent&title_color=0ba4f3&text_color=0ba4f3&border_color=59064d" />
   </a>
+  <div>
+<span style="color:#FFD54A">✨ Interatividade</span>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+</div>
+  
 </div>
 
 ---
