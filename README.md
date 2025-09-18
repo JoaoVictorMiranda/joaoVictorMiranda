@@ -1,10 +1,22 @@
-<h1 align="center">👋 Olá, eu sou o João Victor Miranda!</h1>
-
-<p align="center">💻 Estudante de Informática | 🌐 Entusiasta do Desenvolvimento Web | 🧠 Fã de tecnologias clássicas</p>
+<!-- HEADER COM ANIMAÇÃO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=0BA4F3&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+João+Victor+Miranda!;💻+Programador+Full+Stack;🌐+Entusiasta+do+Desenvolvimento+Web;🧠+Fã+de+Tecnologias+Clássicas" alt="Typing SVG" />
+</h1>
 
 ---
 
-> *“Reconhecer o sofrimento, soltar o apego, cultivar o caminho: eis a essência da liberdade.”*
+<p align="center" style="color:#1376c9; font-size:16px;">
+  🚀 Sempre aprendendo e buscando construir soluções modernas e eficientes.<br/>
+  🎯 Objetivo: dominar tecnologias clássicas e modernas para criar sistemas completos.<br/>
+  📚 Apaixonado por estudar, ensinar e compartilhar conhecimento com a comunidade.
+</p>
+
+---
+
+<!-- CITAÇÃO -->
+<blockquote align="center" style="color:#0ba4f3; font-style:italic; font-size:15px;">
+  “Reconhecer o sofrimento, soltar o apego, cultivar o caminho: eis a essência da liberdade.”
+</blockquote>
 
 ---
 
@@ -12,8 +24,8 @@
 
 <div align="center">
   <a href="https://github.com/joaoVictorMiranda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoVictorMiranda&show_icons=true&theme=gruvbox&hide_title=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVictorMiranda&layout=compact&theme=gruvbox" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoVictorMiranda&show_icons=true&theme=transparent&title_color=0ba4f3&icon_color=1376c9&text_color=0ba4f3&border_color=59064d&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVictorMiranda&layout=compact&theme=transparent&title_color=0ba4f3&text_color=0ba4f3&border_color=59064d" />
   </a>
 </div>
 
@@ -21,24 +33,24 @@
 
 ## 🛠️ Tecnologias que uso
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+<div align="center" style="display:flex; gap:15px; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/React-0e168b?style=for-the-badge&logo=react&logoColor=0ba4f3" />
+  <img src="https://img.shields.io/badge/JavaScript-1376c9?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/HTML5-59064d?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-0ba4f3?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MySQL-0d053b?style=for-the-badge&logo=mysql&logoColor=0ba4f3" />
+  <img src="https://img.shields.io/badge/Git-1376c9?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-0e168b?style=for-the-badge&logo=linux&logoColor=ffffff" />
 </div>
 
 ---
 
 ## 🚀 Ferramentas e Plataformas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<div align="center" style="display:flex; gap:15px; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Node.js-0ba4f3?style=for-the-badge&logo=node.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NPM-59064d?style=for-the-badge&logo=npm&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/VS%20Code-1376c9?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
 </div>
 
 ---
@@ -47,24 +59,21 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-miranda-48a314224/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0e168b?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
 </div>
 
 ---
 
-
 ## 📈 GitHub Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoVictorMiranda&theme=gruvbox&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoVictorMiranda&bg_color=0d053b&color=0ba4f3&line=1376c9&point=59064d&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-<!-- Fancy animated header (optional, can be removed) -->
-<!-- 
+<!-- FOOTER ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=150&section=header&text=Bem-vindo!&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ba4f3&height=120&section=footer" />
 </p>
--->
